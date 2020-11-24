@@ -1,0 +1,31 @@
+.form-control{
+    width: 400px;
+    border: 2px solid rgb(70, 111, 223);
+}
+form{
+    border:rgb(54, 82, 204) solid 2px;
+    padding: 40px;
+    margin-top: 10px;
+    margin-left: 380px;
+    margin-right: 485px;
+    font-weight: 600;
+}
+.btn
+{
+    margin-top: 15px;
+    margin-left: 150px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}
+h1{
+    margin-left: 500px;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px rgb(83, 102, 211);
+}
+.link{
+    color: rgb(50, 76, 228);
+    text-decoration: underline;
+    padding-left: 150px;
+    font-weight: 500;
+}
